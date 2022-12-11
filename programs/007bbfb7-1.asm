@@ -47,7 +47,7 @@ lps $8 ; loop over rows
 
     cmp $3,$22
     cmp $3,0
-    ; if the pixel is differnt than the background color
+    ; if the pixel is different than the background color
     ; then overlay the image
     lps $3
 
