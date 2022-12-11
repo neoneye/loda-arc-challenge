@@ -11,6 +11,18 @@ f11 $20,101000 ; get width
 mov $21,$0
 f11 $21,101000 ; get height
 
+; div by zero if width is != 3
+mov $33,$20
+cmp $33,3
+mov $34,1
+div $34,$33
+
+; div by zero if height is != 3
+mov $33,$21
+cmp $33,3
+mov $34,1
+div $34,$33
+
 mov $0,$20
 pow $0,2 ; width * width
 mov $1,$21
