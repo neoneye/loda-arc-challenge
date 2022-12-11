@@ -12,7 +12,7 @@ f11 $3,101060 ; most popular color
 
 mov $5,$0 ; noisy image
 mov $6,$3 ; background_color
-f21 $5,101090 ; denoise image
+f21 $5,101090 ; denoise type 1
 ; $5 is denoised image
 
 ; $9 is noisy image
