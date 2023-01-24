@@ -5,9 +5,7 @@ model filename;program filename
 1cf80156.json;1cf80156-1.asm
 1cf80156.json;1f85a75f-1.asm
 1cf80156.json;39a8645d-1.asm
-1cf80156.json;48d8fb45-1.asm
 1cf80156.json;68b67ca3-x.asm
-1cf80156.json;72ca375d-1.asm
 1cf80156.json;88a62173-1.asm
 1cf80156.json;a740d043-1.asm
 2013d3e2.json;2013d3e2-1.asm
@@ -18,8 +16,6 @@ model filename;program filename
 27f8ce4f.json;c3e719e8-1.asm
 31aa019c.json;31aa019c-1.asm
 39a8645d.json;39a8645d-1.asm
-39a8645d.json;48d8fb45-1.asm
-39a8645d.json;72ca375d-1.asm
 3af2c5a8.json;3af2c5a8-1.asm
 3c9b0459.json;3c9b0459-1.asm
 3c9b0459.json;6150a2bd-1.asm
@@ -94,8 +90,6 @@ d10ecb37.json;d10ecb37-x.asm
 d4b1c2b1.json;d4b1c2b1-x.asm
 d511f180.json;c8f0f002-1.asm
 d9fac9be.json;39a8645d-1.asm
-d9fac9be.json;48d8fb45-1.asm
-d9fac9be.json;72ca375d-1.asm
 e1baa8a4.json;5614dbcf-1.asm
 e1baa8a4.json;e1baa8a4-x.asm
 e1baa8a4.json;eb5a1d5d-1.asm
