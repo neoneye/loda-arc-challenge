@@ -6,6 +6,8 @@ mov $10,$0
 f11 $10,101000 ; get image width
 div $10,2
 ; $10 is the height of the final image
+mov $11,8
+f20 $10,1033 ; Assert input[0] is less than or equal to input[1].
 
 mov $2,0
 mov $7,0
