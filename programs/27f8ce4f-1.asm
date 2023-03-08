@@ -7,10 +7,14 @@ f11 $1,101060 ; most popular color
 ; tile_width
 mov $2,$0
 f11 $2,101000 ; Get width of image
+mov $3,5
+f20 $2,1033 ; Assert input[0] is less than or equal to input[1].
 
 ; tile_height
 mov $3,$0
 f11 $3,101001 ; Get height of image
+mov $4,5
+f20 $3,1033 ; Assert input[0] is less than or equal to input[1].
 
 ; tile
 mov $7,0 ; color
