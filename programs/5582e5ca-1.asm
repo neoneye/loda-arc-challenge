@@ -12,8 +12,8 @@ lps $80
   mov $2,$1
   f31 $0,101051 ; Image: replace colors other than x with color y
   mov $$82,$0
-  add $81,10
-  add $82,10
+  add $81,100
+  add $82,100
 lpe
 
 ; template: "9565186b-1.asm"

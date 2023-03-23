@@ -21,8 +21,8 @@ lps $80
   mul $2,$5
   f31 $0,101200 ; Resize image to size width x height
   mov $$82,$0
-  add $81,10
-  add $82,10
+  add $81,100
+  add $82,100
 lpe
 
 ; template: "b91ae062-1.asm"

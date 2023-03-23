@@ -15,8 +15,8 @@ lps $80
   mov $1,1
   f21 $0,101170 ; Image: Rotate by x * 90 degrees
   mov $$82,$0
-  add $81,10
-  add $82,10
+  add $81,100
+  add $82,100
 lpe
 
 ; template: "f8ff0b80-1.asm"

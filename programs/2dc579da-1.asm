@@ -48,8 +48,8 @@ lps $80
   f31 $30,101150 ; Image: Overlay another image by using a color as mask
   mov $0,$30
   mov $$82,$0
-  add $81,10
-  add $82,10
+  add $81,100
+  add $82,100
 lpe
 
 ; template: "a68b268e-1.asm"
