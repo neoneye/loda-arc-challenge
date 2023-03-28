@@ -9,8 +9,8 @@ lps $80
   f11 $0,101120 ; Image: remove grid patterns.
   f11 $1,101140 ; Image: Remove duplicate rows/columns
   mov $$82,$0
-  add $81,10
-  add $82,10
+  add $81,100
+  add $82,100
 lpe
 
 ; template: "90c28cc7-1.asm"

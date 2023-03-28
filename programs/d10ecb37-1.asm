@@ -18,8 +18,8 @@ lps $80
   mov $1,$4
   f21 $0,101222 ; get N left columns
   mov $$82,$0
-  add $81,10
-  add $82,10
+  add $81,100
+  add $82,100
 lpe
 
 ; template: "2013d3e2-1.asm"

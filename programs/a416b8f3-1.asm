@@ -10,8 +10,8 @@ lps $80
   mov $1,$0
   f21 $0,101030 ; Image.hstack. horizontal stack of 2 images
   mov $$82,$0
-  add $81,10
-  add $82,10
+  add $81,100
+  add $82,100
 lpe
 
 ; template: "6d0aefbc-1.asm"

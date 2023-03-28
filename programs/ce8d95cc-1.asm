@@ -9,8 +9,8 @@ lps $80
   f11 $0,101160 ; Image: Trim border using histogram of border pixels
   f11 $0,101140 ; Image: Remove duplicate rows/columns
   mov $$82,$0
-  add $81,10
-  add $82,10
+  add $81,100
+  add $82,100
 lpe
 
 ; template: "3c9b0459-1.asm"

@@ -13,8 +13,8 @@ lps $80
   f11 $2,101060 ; Image the 1 most popular colors, sorted by popularity
   f31 $0,101150 ; Image: Overlay another image by using a color as mask
   mov $$82,$0
-  add $81,10
-  add $82,10
+  add $81,100
+  add $82,100
 lpe
 
 ; template: "496994bd-1.asm"

@@ -9,8 +9,8 @@ lps $80
   mov $1,6
   f21 $0,102151 ; Repair damaged pixels and recreate big repeating patterns such as mosaics.
   mov $$82,$0
-  add $81,10
-  add $82,10
+  add $81,100
+  add $82,100
 lpe
 
 ; template: "ea959feb-1.asm"

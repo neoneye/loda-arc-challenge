@@ -13,7 +13,7 @@ lps $80
   div $2,1
   mov $3,$0
   f11 $3,101001 ; Get height of image
-  sub $3,1
+  sub $3,0
   div $3,2
   mov $10,$0
   mov $11,$3
@@ -51,15 +51,8 @@ lps $80
   add $82,100
 lpe
 
-; template: "a68b268e-1.asm"
-; mutate: ToggleEnabled
+; template: "e98196ab-1.asm"
+; mutate: CallMostPopularProgram, no change
 ; mutate: CallRecentProgram, no change
-; mutate: IncrementTargetValueWhereTypeIsDirect
-; mutate: ReplaceSourceWithHistogram, no change
-; mutate: CallLeastPopularProgram, no change
-; mutate: CallRecentProgram, no change
-; mutate: CallRecentProgram, no change
-; mutate: ReplaceSourceConstantWithHistogram, no change
-; mutate: CallLeastPopularProgram, no change
 ; mutate: CallRecentProgram, no change
 ; mutate: DecrementSourceValueWhereTypeIsConstant
