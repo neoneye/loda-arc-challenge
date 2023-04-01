@@ -5,7 +5,9 @@ model filename;program filename
 0d3d703e.json;0d3d703e-2.asm
 0dfd9992.json;repair-mosaic.asm
 1190e5a7.json;1190e5a7-1.asm
+195ba7dc.json;f2829549-1.asm
 19bb5feb.json;19bb5feb-1.asm
+1b2d62fb.json;f2829549-1.asm
 1cf80156.json;1cf80156-1.asm
 1cf80156.json;39a8645d-1.asm
 1cf80156.json;68b67ca3-1.asm
@@ -25,6 +27,7 @@ model filename;program filename
 2dc579da.json;2dc579da-1.asm
 2dee498d.json;2dee498d-1.asm
 31aa019c.json;31aa019c-1.asm
+31d5ba1a.json;3428a4f5-1.asm
 3428a4f5.json;3428a4f5-1.asm
 39a8645d.json;39a8645d-1.asm
 3af2c5a8.json;3af2c5a8-1.asm
@@ -32,6 +35,7 @@ model filename;program filename
 3c9b0459.json;6150a2bd-1.asm
 3de23699.json;3de23699-1.asm
 4258a5f9.json;4258a5f9-1.asm
+4347f46a.json;50cb2852-1.asm
 44f52bb0.json;44f52bb0-1.asm
 46442a0e.json;7fe24cdd-1.asm
 484b58aa.json;repair-mosaic.asm
@@ -49,6 +53,7 @@ model filename;program filename
 59341089.json;59341089-1.asm
 5ad4f10b.json;5ad4f10b-1.asm
 5b6cbef5.json;5b6cbef5-1.asm
+5d2a5c43.json;f2829549-1.asm
 60c09cac.json;60c09cac-1.asm
 60c09cac.json;b91ae062-1.asm
 60c09cac.json;c59eb873-1.asm
@@ -57,12 +62,14 @@ model filename;program filename
 623ea044.json;623ea044-1.asm
 62c24649.json;3af2c5a8-1.asm
 6430c8c4.json;e98196ab-1.asm
+66f2d22f.json;f2829549-1.asm
 67a3c6ac.json;67a3c6ac-1.asm
 67e8384a.json;3af2c5a8-1.asm
 68b16354.json;68b16354-1.asm
 68b67ca3.json;1190e5a7-1.asm
 68b67ca3.json;68b67ca3-1.asm
 6d0aefbc.json;6d0aefbc-1.asm
+6f8cd79b.json;b6afb2da-1.asm
 6fa7a44f.json;6fa7a44f-1.asm
 73182012.json;2013d3e2-1.asm
 73182012.json;73182012-1.asm
@@ -86,6 +93,7 @@ model filename;program filename
 91714a58.json;7f4411dc-1.asm
 9172f3a0.json;9172f3a0-1.asm
 9565186b.json;9565186b-1.asm
+99b1bc43.json;3428a4f5-1.asm
 9dfd6313.json;74dd1130-1.asm
 9f236235.json;9f236235-1.asm
 a416b8f3.json;a416b8f3-1.asm
@@ -100,6 +108,7 @@ b6afb2da.json;b6afb2da-1.asm
 b91ae062.json;60c09cac-1.asm
 b91ae062.json;b91ae062-1.asm
 b9b7f026.json;b9b7f026-1.asm
+bb43febb.json;50cb2852-1.asm
 bbc9ae5d.json;bbc9ae5d-1.asm
 bc1d5164.json;bc1d5164-1.asm
 bda2d7a6.json;bda2d7a6-2.asm
@@ -128,6 +137,7 @@ e1baa8a4.json;5614dbcf-1.asm
 e1baa8a4.json;e1baa8a4-1.asm
 e1baa8a4.json;eb5a1d5d-1.asm
 e1baa8a4.json;eb5a1d5d-2.asm
+e345f17b.json;f2829549-1.asm
 e95e3d8e.json;repair-mosaic.asm
 e98196ab.json;e98196ab-1.asm
 ea786f4a.json;623ea044-1.asm
