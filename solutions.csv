@@ -1,6 +1,7 @@
 model filename;program filename
 007bbfb7.json;007bbfb7-1.asm
 007bbfb7.json;5b6cbef5-1.asm
+0934a4d8.json;repair-symmetry-and-crop.asm
 0c786b71.json;0c786b71-1.asm
 0c9aba6e.json;94f9d214-1.asm
 0c9aba6e.json;d19f7514-1.asm
@@ -93,6 +94,7 @@ model filename;program filename
 6430c8c4.json;e98196ab-1.asm
 66f2d22f.json;f2829549-1.asm
 67a3c6ac.json;67a3c6ac-1.asm
+67b4a34d.json;repair-symmetry-and-crop.asm
 67e8384a.json;3af2c5a8-1.asm
 68b16354.json;68b16354-1.asm
 68b67ca3.json;1190e5a7-1.asm
@@ -129,6 +131,7 @@ model filename;program filename
 981571dc.json;repair-symmetry.asm
 99b1bc43.json;3428a4f5-1.asm
 9dfd6313.json;74dd1130-1.asm
+9ecd008a.json;repair-symmetry-and-crop.asm
 9f236235.json;9f236235-1.asm
 a416b8f3.json;a416b8f3-1.asm
 a68b268e.json;2dc579da-1.asm
@@ -155,6 +158,7 @@ b1948b0a.json;a740d043-1.asm
 b1948b0a.json;b6afb2da-1.asm
 b1948b0a.json;c8f0f002-1.asm
 b1948b0a.json;ed36ccf7-1.asm
+b1948b0a.json;repair-symmetry-and-crop.asm
 b6afb2da.json;b6afb2da-1.asm
 b8825c91.json;repair-symmetry.asm
 b91ae062.json;60c09cac-1.asm
@@ -219,7 +223,9 @@ d9fac9be.json;39a8645d-1.asm
 dae9d2b5.json;bc1d5164-1.asm
 dae9d2b5.json;f2829549-1.asm
 dae9d2b5.json;fafffa47-1.asm
+dc0a314f.json;repair-symmetry-and-crop.asm
 de1cd16c.json;b9b7f026-1.asm
+de493100.json;repair-symmetry-and-crop.asm
 e133d23d.json;bc1d5164-1.asm
 e133d23d.json;f2829549-1.asm
 e133d23d.json;fafffa47-1.asm
@@ -228,6 +234,7 @@ e1baa8a4.json;e1baa8a4-1.asm
 e1baa8a4.json;eb5a1d5d-1.asm
 e1baa8a4.json;eb5a1d5d-2.asm
 e345f17b.json;f2829549-1.asm
+e66aafb8.json;repair-symmetry-and-crop.asm
 e95e3d8e.json;repair-mosaic.asm
 e98196ab.json;d19f7514-1.asm
 e98196ab.json;e98196ab-1.asm
@@ -243,9 +250,11 @@ f25fbde4.json;f25fbde4-1.asm
 f25ffba3.json;496994bd-1.asm
 f25ffba3.json;f25ffba3-1.asm
 f2829549.json;f2829549-1.asm
+f4081712.json;repair-symmetry-and-crop.asm
 f823c43c.json;repair-mosaic.asm
 f823c43c.json;repair-symmetry.asm
 f8b3ba0a.json;f8b3ba0a-1.asm
 f8ff0b80.json;f8ff0b80-1.asm
 fafffa47.json;94f9d214-1.asm
 fafffa47.json;fafffa47-1.asm
+ff805c23.json;repair-symmetry-and-crop.asm
