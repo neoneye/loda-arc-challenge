@@ -119,6 +119,7 @@ model filename;program filename
 6c434453.json;substitution-rule-applied.asm
 6d0aefbc.json;6d0aefbc-1.asm
 6e82a1ae.json;small-medium-big.asm
+6ea4a07e.json;f76d97a5-1.asm
 6f8cd79b.json;b6afb2da-1.asm
 6fa7a44f.json;6fa7a44f-1.asm
 72ca375d.json;crop-first-object.asm
@@ -139,6 +140,7 @@ model filename;program filename
 7fe24cdd.json;7fe24cdd-1.asm
 80af3007.json;80af3007-1.asm
 833dafe3.json;0c786b71-1.asm
+85c4e7cd.json;f76d97a5-1.asm
 88a62173.json;88a62173-1.asm
 8be77c9e.json;6fa7a44f-1.asm
 8f2ea7aa.json;80af3007-1.asm
@@ -187,6 +189,7 @@ b1948b0a.json;b94a9452-1.asm
 b1948b0a.json;c8f0f002-1.asm
 b1948b0a.json;d2abd087-1.asm
 b1948b0a.json;ed36ccf7-1.asm
+b1948b0a.json;f76d97a5-1.asm
 b1948b0a.json;repair-symmetry-and-crop.asm
 b230c067.json;enumerated-objects.asm
 b230c067.json;small-medium-big.asm
@@ -297,6 +300,7 @@ f25ffba3.json;496994bd-1.asm
 f25ffba3.json;f25ffba3-1.asm
 f2829549.json;f2829549-1.asm
 f4081712.json;repair-symmetry-and-crop.asm
+f76d97a5.json;f76d97a5-1.asm
 f823c43c.json;repair-mosaic.asm
 f823c43c.json;repair-symmetry.asm
 f8b3ba0a.json;f8b3ba0a-1.asm
