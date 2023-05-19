@@ -167,6 +167,7 @@ model filename;program filename
 9ecd008a.json;repair-symmetry-and-crop.asm
 9f236235.json;9f236235-1.asm
 a416b8f3.json;a416b8f3-1.asm
+a5313dff.json;00d62c1b-1.asm
 a68b268e.json;2dc579da-1.asm
 a68b268e.json;a68b268e-1.asm
 a699fb00.json;substitution-rule-applied.asm
@@ -277,6 +278,7 @@ d511f180.json;eb5a1d5d-1.asm
 d56f2372.json;b94a9452-1.asm
 d56f2372.json;c3202e5a-1.asm
 d56f2372.json;crop-first-object.asm
+d5d6de2d.json;00d62c1b-1.asm
 d631b094.json;predicted-single-color-image.asm
 d9fac9be.json;39a8645d-1.asm
 dae9d2b5.json;bc1d5164-1.asm
