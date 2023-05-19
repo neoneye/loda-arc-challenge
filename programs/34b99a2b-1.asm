@@ -12,9 +12,6 @@ lps $80
   sub $8,1
   div $8,2
 
-  mov $9,$0
-  f11 $9,101001 ; Get height of image
-
   mov $1,$0
   mov $2,$8
   f21 $1,101222 ; get N left columns
