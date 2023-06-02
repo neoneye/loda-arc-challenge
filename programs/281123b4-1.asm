@@ -10,7 +10,7 @@ lps $80
   mov $20,$$83 ; most popular color across inputs
 
   mov $1,1 ; spacing is 1 pixel
-  f24 $0,102264 ; split into 4 columns
+  f24 $0,102260 ; split into 4 columns
   ; $0..$3 are the 4 columns
 
   ; layer 0

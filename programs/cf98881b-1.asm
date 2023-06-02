@@ -10,7 +10,7 @@ lps $80
 
   mov $10,$$81 ; input image
   mov $11,1 ; 1 pixel spacing
-  f23 $10,102262 ; split into 3 columns
+  f23 $10,102260 ; split into 3 columns
   ; $10..$12 are the 3 columns
 
   ; layer 0

@@ -10,8 +10,8 @@ lps $80
 
   mov $10,$$81 ; input image
   mov $11,0 ; no spacing
-  f23 $10,102263 ; split into 3 rows
-  ; $10..$12 are the 3 columns
+  f23 $10,102261 ; split into 3 rows
+  ; $10..$12 are the 3 rows
 
   ; layer 0
   mov $0,$11 ; middle of image
