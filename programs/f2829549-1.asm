@@ -1,15 +1,11 @@
 ; Submitted by Simon Strandgaard
 ; Program Type: simple
 
-mov $5,$0
-f11 $5,101000 ; get width
-div $5,2
+mov $1,$0
+f11 $1,101000 ; get width
+mod $1,2 ; spacing between the columns
 
-mov $4,$0
-f21 $4,101222 ; get N left columns
+f22 $0,102260 ; split into 2 columns
+; $0..$1 are the 2 columns
 
-mov $1,$5
-f21 $0,101223 ; get N right columns
-
-mov $1,$4
 f21 $0,101256 ; or
