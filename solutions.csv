@@ -10,6 +10,7 @@ model filename;program filename
 08ed6ac7.json;enumerated-objects.asm
 0934a4d8.json;repair-symmetry-and-crop.asm
 0b148d64.json;0b148d64-1.asm
+0b148d64.json;ExtractObjects9-1.asm
 0c786b71.json;0c786b71-1.asm
 0c9aba6e.json;d19f7514-1.asm
 0c9aba6e.json;e98196ab-1.asm
@@ -40,6 +41,7 @@ model filename;program filename
 0d3d703e.json;67a3c6ac-1.asm
 0d3d703e.json;68b16354-1.asm
 0d3d703e.json;AscendingOrder_l6abjqzwwo7mhobq52-1.asm
+0d3d703e.json;Center4-1.asm
 0d3d703e.json;CompleteShape1-1.asm
 0d3d703e.json;CompleteShape10-1.asm
 0d3d703e.json;CompleteShape10-2.asm
@@ -51,6 +53,7 @@ model filename;program filename
 0d3d703e.json;FilledNotFilled9-1.asm
 0d3d703e.json;FilledNotFilled9-2.asm
 0d3d703e.json;FloodFill_l6ab6wvu67ltkeaialw-1.asm
+0d3d703e.json;TopBottom2D5-1.asm
 0d3d703e.json;a79310a0-1.asm
 0d3d703e.json;bbc9ae5d-1.asm
 0d3d703e.json;bc1d5164-1.asm
@@ -79,6 +82,7 @@ model filename;program filename
 1cf80156.json;68b67ca3-1.asm
 1cf80156.json;88a62173-1.asm
 1cf80156.json;ExtractObjects1-1.asm
+1cf80156.json;ExtractObjects9-1.asm
 1cf80156.json;a740d043-1.asm
 1cf80156.json;b94a9452-1.asm
 1cf80156.json;c3202e5a-1.asm
@@ -678,6 +682,7 @@ model filename;program filename
 1f85a75f.json;1d_denoising_mc_36-1.asm
 1f85a75f.json;1f85a75f-1.asm
 1f85a75f.json;ExtractObjects1-1.asm
+1f85a75f.json;ExtractObjects9-1.asm
 1f85a75f.json;b94a9452-1.asm
 1f85a75f.json;c3202e5a-1.asm
 1f85a75f.json;crop-first-object.asm
@@ -687,6 +692,8 @@ model filename;program filename
 23581191.json;23581191-1.asm
 23b5c85d.json;88a62173-1.asm
 23b5c85d.json;ExtractObjects1-1.asm
+23b5c85d.json;ExtractObjects3-1.asm
+23b5c85d.json;ExtractObjects9-1.asm
 23b5c85d.json;b94a9452-1.asm
 23b5c85d.json;c3202e5a-1.asm
 23b5c85d.json;crop-first-object.asm
@@ -885,6 +892,8 @@ CountMinimal.json;predicted-single-color-image.asm
 Diagonal_expansion__l6abirdahy8nxqq8mrv.json;Diagonal_expansion__l6abirdahy8nxqq8mrv-1.asm
 ExtendToBoundary10.json;ExtendToBoundary10-1.asm
 ExtendToBoundary5.json;623ea044-1.asm
+ExtendToBoundary7.json;ExtendToBoundary7-1.asm
+ExtractObjects9.json;ExtractObjects9-1.asm
 ExtractObjectsMinimal.json;1cf80156-1.asm
 ExtractObjectsMinimal.json;1d_denoising_mc_17-1.asm
 ExtractObjectsMinimal.json;1d_denoising_mc_36-1.asm
@@ -909,6 +918,7 @@ HorizontalVertical4.json;1d_pcopy_1c_4-1.asm
 HorizontalVertical4.json;substitution-rule-applied.asm
 Most_Common_color_l6ab0lf3xztbyxsu3p.json;5582e5ca-1.asm
 One_Color_Gravity_l6bk9t38ni3lwbapno.json;1e0a9b12-1.asm
+One_Color_Sequence_l6bl12mbpu3ide97bfe.json;FilledNotFilled6-1.asm
 One_Color_Sequence_l6bl12mbpu3ide97bfe.json;One_Color_Sequence_l6bl12mbpu3ide97bfe-1.asm
 One_Color_Simple_Stuff_l6bkg9unb1kgovxkon6.json;1d_pcopy_1c_4-1.asm
 One_Color_Simple_Stuff_l6bkg9unb1kgovxkon6.json;substitution-rule-applied.asm
@@ -931,6 +941,7 @@ OrangeToYellow_l6aasjvev63lnj34jm.json;68b16354-1.asm
 OrangeToYellow_l6aasjvev63lnj34jm.json;68b67ca3-1.asm
 OrangeToYellow_l6aasjvev63lnj34jm.json;7468f01a-1.asm
 OrangeToYellow_l6aasjvev63lnj34jm.json;84db8fc4-1.asm
+OrangeToYellow_l6aasjvev63lnj34jm.json;Center4-1.asm
 OrangeToYellow_l6aasjvev63lnj34jm.json;CleanUp10-1.asm
 OrangeToYellow_l6aasjvev63lnj34jm.json;CompleteShape1-1.asm
 OrangeToYellow_l6aasjvev63lnj34jm.json;Copy10-1.asm
@@ -1031,6 +1042,7 @@ b1948b0a.json;9565186b-1.asm
 b1948b0a.json;AboveBelow8-1.asm
 b1948b0a.json;AboveBelow8-2.asm
 b1948b0a.json;AscendingOrder_l6abjqzwwo7mhobq52-1.asm
+b1948b0a.json;Center4-1.asm
 b1948b0a.json;CleanUp10-1.asm
 b1948b0a.json;CompleteShape1-1.asm
 b1948b0a.json;CompleteShape10-1.asm
@@ -1038,6 +1050,8 @@ b1948b0a.json;CompleteShape10-2.asm
 b1948b0a.json;CompleteShape9-1.asm
 b1948b0a.json;CompleteShape9-2.asm
 b1948b0a.json;Copy10-1.asm
+b1948b0a.json;ExtractObjects3-1.asm
+b1948b0a.json;ExtractObjects9-1.asm
 b1948b0a.json;FilledNotFilled9-1.asm
 b1948b0a.json;FilledNotFilled9-2.asm
 b1948b0a.json;Flip_color!_l6ab8jog1gzd12hofpc-1.asm
@@ -1123,6 +1137,7 @@ c8f0f002.json;7b6016b9-1.asm
 c8f0f002.json;84db8fc4-1.asm
 c8f0f002.json;90c28cc7-1.asm
 c8f0f002.json;AscendingOrder_l6abjqzwwo7mhobq52-1.asm
+c8f0f002.json;Center4-1.asm
 c8f0f002.json;CompleteShape1-1.asm
 c8f0f002.json;CompleteShape10-1.asm
 c8f0f002.json;CompleteShape10-2.asm
@@ -1199,6 +1214,7 @@ d511f180.json;7468f01a-1.asm
 d511f180.json;90c28cc7-1.asm
 d511f180.json;9f236235-1.asm
 d511f180.json;AscendingOrder_l6abjqzwwo7mhobq52-1.asm
+d511f180.json;Center4-1.asm
 d511f180.json;CleanUp10-1.asm
 d511f180.json;CompleteShape1-1.asm
 d511f180.json;CompleteShape10-1.asm
