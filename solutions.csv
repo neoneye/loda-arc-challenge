@@ -566,6 +566,7 @@ model filename;program filename
 1d_recolor_cmp_36.json;substitution-rule-applied.asm
 1d_recolor_cmp_48.json;1d_pcopy_1c_4-1.asm
 1d_recolor_cmp_48.json;substitution-rule-applied.asm
+1d_recolor_cmp_8.json;1d_recolor_cnt_37-1.asm
 1d_recolor_cnt_0.json;1d_recolor_cnt_37-1.asm
 1d_recolor_cnt_0.json;small-medium-big.asm
 1d_recolor_cnt_1.json;1d_recolor_cnt_37-1.asm
@@ -993,6 +994,7 @@ a5313dff.json;00d62c1b-1.asm
 a5313dff.json;7b6016b9-1.asm
 a5313dff.json;FloodFill_l6ab6wvu67ltkeaialw-1.asm
 a59b95c0.json;a59b95c0-1.asm
+a61f2674.json;1d_recolor_cnt_37-1.asm
 a68b268e.json;2dc579da-1.asm
 a68b268e.json;a68b268e-1.asm
 a699fb00.json;1d_pcopy_1c_4-1.asm
